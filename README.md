@@ -69,9 +69,12 @@ This is a data analysis of MTN services and sales tracking customer churn status
  ### OBSERVATIONS DURING DATA CLEANING AND PREPARATION
  - Null values in the data were checked to ensure the dataset is okay for analysis. Out of 974 Reasons for Churn, 690 rows were null, and from the investigation, the customers in those rows were still active.
 - All null values in the Reason for churn status were replaced with "Active"
-- Splitting the column "Date of Purchase" to "Day of Purchase" and "Month of Purchase".
+- Splitting the column "Date of Purchase" into "Day of Purchase" and "Month of Purchase".
 
- ### 
+ ### FINDINGS
+ - The State with the Highest number of customers is Osun, with 43 customers registered, next is Abuja with 42 customers registered. And the state with the fewest customers is 14 customers registered.
+ - The State with the highest decline in customers is Abuj, with 15 customers out of 42 customers, while State 
+ - 
 
 
 
