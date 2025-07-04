@@ -31,17 +31,37 @@ This is a data analysis of MTN services and sales tracking customer churn status
  
  - The dataset comprises the following: 974 rows and 17 columns. In the 17 columns, we have the following headers;
  * a. Customer ID: 
- * b. Full Name: This column contains the full name of customers who were registered with MTN .
- * c. Date of Purchase : This is the date registration was made for customer using MTN device.
+ * b. Full Name: This column contains the full name of customers who
+      were registered with MTN.
+ * c. Date of Purchase: This is the date registration was made
+      for the customer using the MTN device.
  * d. Age: This is the Age of a particular customer.
  * e. State: This is the state of registration.
- * f. MTN Device : This isan MTN product that was sold to a customer at a particular period.
- * g. Gender: This is the column that distinguish the male and female customer.
- * h. Satisfaction Rate: This is the column that shows how the customers rate MTN services which they
-   are using. The rating is form 1 to 5
+ * f. MTN Device: This is an MTN product that was sold to a customer at
+      a particular period.
+ * g. Gender: This is the column that distinguishes the male and
+      female customers.
+ * h. Satisfaction Rate: This is the column that shows how the
+      customers rate MTN services that they
+      are using. The rating is from 1 to 5
  * i. Customer Review: This is the column that shows how the
-      customers review MTN services with the following; Poor, Fair,good,
+      customers review MTN services with the following: Poor, Fair, Good,
       Very good, Excellent.
+ * J. Customer Tenure in months: This column has to do with how long
+      A particular customer registered uses a particular MTN Product
+ * k. Subscription Plan: This is the column that shows the network plan
+       a particular customer subscribed to.
+ * l. Unit Price: This is the price per device owned by the MTN
+      network provider
+ * m. Number of Times Purchased: This is the number of times the device
+      was sold to a particular customer.
+ * n. Total Revenue: This is the total sales for devices sold by quantity.
+ * o. Data Usage: This is the column for data usage by the customer.
+ * p. Customer Churn status: This is the column that indicates if
+      the customers are still active or not. The "Yes" is not Active
+      and "No" is still active.
+ * q. Reasons for Churn: This is the column that speaks on the reason
+      a customer stop using MTN service.
  
 
 
