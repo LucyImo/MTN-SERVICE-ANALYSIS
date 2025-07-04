@@ -28,8 +28,20 @@ This is a data analysis of MTN services and sales tracking customer churn status
 - 14. What device is this Highest revenue is directed to based on location?
 
  ### Contents 
- The dataset comprises the following; 974 rows and 17 columns. In the 17 columns, we have the following headers;
- -a. 
+ 
+ - The dataset comprises the following: 974 rows and 17 columns. In the 17 columns, we have the following headers;
+ * a. Customer ID: 
+ * b. Full Name: This column contains the full name of customers who were registered with MTN .
+ * c. Date of Purchase : This is the date registration was made for customer using MTN device.
+ * d. Age: This is the Age of a particular customer.
+ * e. State: This is the state of registration.
+ * f. MTN Device : This isan MTN product that was sold to a customer at a particular period.
+ * g. Gender: This is the column that distinguish the male and female customer.
+ * h. Satisfaction Rate: This is the column that shows how the customers rate MTN services which they
+   are using. The rating is form 1 to 5
+ * i. Customer Review: This is the column that shows how the
+      customers review MTN services with the following; Poor, Fair,good,
+      Very good, Excellent.
  
 
 
