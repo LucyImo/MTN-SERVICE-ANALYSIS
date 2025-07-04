@@ -27,7 +27,7 @@ This is a data analysis of MTN services and sales tracking customer churn status
 - 13. What location has the highest revenue?
 - 14. What device is this Highest revenue is directed to based on location?
 
- ### Contents 
+ ### CONTENTS
  
  - The dataset comprises the following: 974 rows and 17 columns. In the 17 columns, we have the following headers;
  * a. Customer ID: 
@@ -60,9 +60,16 @@ This is a data analysis of MTN services and sales tracking customer churn status
  * p. Customer Churn status: This is the column that indicates if
       the customers are still active or not. The "Yes" is not Active
       and "No" is still active.
- * q. Reasons for Churn: This is the column that speaks on the reason
-      a customer stop using MTN service.
- 
+ * q. Reasons for Churn: This is the column that speaks to the reason
+      a customer stops using MTN service.
+
+ ### DATA SOURCES
+ This is a comma-separated value (CSV) file.
+
+ ### OBSERVATIONS DURING DATA CLEANING AND PREPARATION
+ - Out of 974 Reasons for Churn, 690 rows were null, and
+   From the investigation, the customers in those rows were still active.
+- All null values in Reason for churn status was replaced with "Still Active"
 
 
 
