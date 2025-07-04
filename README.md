@@ -67,9 +67,11 @@ This is a data analysis of MTN services and sales tracking customer churn status
  This is a comma-separated value (CSV) file.
 
  ### OBSERVATIONS DURING DATA CLEANING AND PREPARATION
- - Out of 974 Reasons for Churn, 690 rows were null, and
-   From the investigation, the customers in those rows were still active.
-- All null values in Reason for churn status was replaced with "Still Active"
+ - Null values in the data were checked to ensure the dataset is okay for analysis. Out of 974 Reasons for Churn, 690 rows were null, and from the investigation, the customers in those rows were still active.
+- All null values in the Reason for churn status were replaced with "Active"
+- Splitting the column "Date of Purchase" to "Day of Purchase" and "Month of Purchase".
+
+ ### 
 
 
 
