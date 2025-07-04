@@ -26,6 +26,8 @@ This is a data analysis of MTN services and sales tracking customer churn status
 - 12. Which MTN subscription plan do customers patronize more, and which do they have a decline in customers based on location?
 - 13. What location has the highest revenue?
 - 14. What device is this Highest revenue is directed to based on location?
+
+ ### Contents 
  
 
 
