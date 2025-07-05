@@ -76,9 +76,20 @@ This is a data analysis of MTN services and sales tracking customer churn status
 - Splitting the column "Date of Purchase" into "Day of Purchase" and "Month of Purchase".
 
  ### FINDINGS
- - The State with the Highest number of customers is Osun, with 43 customers registered, next is Abuja with 42 customers registered. And the state with the fewest customers is 14 customers registered.
- - The State with the highest decline in customers is Abuj, with 15 customers out of 42 customers, while State 
- - 
+
+ - The Month with the highest number of customers is February, with 450 registered customers. The others
+    are  January with 271 customers and March with 253 customers.
+   
+ - The Month with the Most decline in customers is February, with a 31% decline, next by March with a
+    30.4% decline and January with a 23.9% from customers that were registered in each month.
+   
+ - The State with the Highest number of customers is Osun, with 43 customers registered, next is Abuja with
+   42 customers registered. And the state with the fewest customers is 14 customers registered.
+   
+ - The State with the highest decline in customers is Abuja, with 15 customers out of 42 customers, while
+   the State
+   
+ - The MTN device that was sold from this period (January to March) are Listed from the highest to the least respectively; Mobile Sim Card with a total of 301 customers, 5G Broadband Router with a total of 229 customers, Broadband MiFi with a total of 228 and 4G Router with a total of 216 customers.
 
 
 
