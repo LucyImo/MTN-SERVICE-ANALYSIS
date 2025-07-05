@@ -106,7 +106,10 @@ This is a data analysis of MTN services and sales tracking customer churn status
 
  - MTN management should address the issue of high call tariffs and work on their service stability and pricing to increase their customers' retention. The high tariff also affects the fast data consumption. MTN should work on a more flexible plan to retain its customers in the coming months/period.
 
-### 
+### REFERENCE
+
+- Python Language
+- other Libraries ( Pandas, Matplotlib, seaborn) etc.
 
  
 
