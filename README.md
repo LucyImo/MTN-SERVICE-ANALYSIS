@@ -100,7 +100,9 @@ This is a data analysis of MTN services and sales tracking customer churn status
 
  - Based on the review, the state with the highest poor review is Nasarawa State, the state with the highest fair review is Abuja (FCT), the state with the highest good review is Osun State, State with the highest Very good revenue is Kogi and The state with the highest excellent review is Cross River State.
 
- - From the analysis, customers rated MTN services and still left them due to the following; Better Offers from Competitors with 52 Churns,  Costly Data Plans with 40 churn, Fast Data Consumption	High Call with 32 Churn, High Call Tarriffs with 54 Churn, Poor Customer Service with 34 churn and Relocation with 27 churn. High Call Tariffs were seen as the highest reason, and very good was the highest review in this category, but customers still left. 
+ - From the analysis, customers rated MTN services and still left them due to the following; Better Offers from Competitors with 52 Churns,  Costly Data Plans with 40 churn, Fast Data Consumption	High Call with 32 Churn, High Call Tarriffs with 54 Churn, Poor Customer Service with 34 churn and Relocation with 27 churn. High Call Tariffs were seen as the highest reason, and very good was the highest review in this category, but customers still left.
+
+- 
 
 
 
