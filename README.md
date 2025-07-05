@@ -95,8 +95,10 @@ This is a data analysis of MTN services and sales tracking customer churn status
 
  - The gender that patronizes MTN the most is the Female with a 50% patronage to the male with 49.2%.
 
- - The State with the highest revenue so far is Plateau State with a Revenue of N
+ - The State with the highest revenue so far is Plateau State with a Revenue of N9463,600, next to
+   Ekiti with a revenue of N9,240,250, and the least state is Lagos with a Revenue of N2,824,500.
 
+ - Based on the review, the state with the highest poor review is Nasarawa State, the state with the highest fair review is Abuja (FCT), the state with the highest good review is Osun State, State with the highest Very good revenue is Kogi and The state with the highest excellent review is Cross River State.
 
 
 
