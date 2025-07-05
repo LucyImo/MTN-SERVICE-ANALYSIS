@@ -91,6 +91,10 @@ This is a data analysis of MTN services and sales tracking customer churn status
    
  - The MTN device that was sold from this period (January to March) are Listed from the highest to the least respectively; Mobile Sim Card with a total of 301 customers, 5G Broadband Router with a total of 229 customers, Broadband MiFi with a total of 228 and 4G Router with a total of 216 customers.
 
+ - The gender that patronizes MTN the most is the Female with a 50% patronage to the male with 49.2%.
+
+ - 
+
 
 
 
