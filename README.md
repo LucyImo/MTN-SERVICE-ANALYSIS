@@ -10,7 +10,7 @@
 - [References](#references)
 
 ### DATA OVERVIEW
-This is a data analysis of MTN services and sales tracking customer churn status, and an investigation will be carried out to note the general problem, which is the reason for churn, and ways to mitigate this problem. MTN is one of the network providers in Nigeria. The data is a record of customers from the period of January to March of a particular year, with a total of 974 customers. This Analysis was done with the Python language. The Following Insights were analyzed; These are:
+This is a data analysis of MTN services and sales tracking customer churn status, and an investigation was carried out to note the general problem, which is the reason for churn, and ways to mitigate this problem. MTN is one of the network providers in Nigeria. The data was a record of customers from the period of January to March of a particular year, with a total of 974 customers. This Analysis was done with the Python language. The Following Insights were analyzed; These are:
 
 -Count trend
 
