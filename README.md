@@ -12,20 +12,24 @@
 ### DATA OVERVIEW
 This is a data analysis of MTN services and sales tracking customer churn status, and an investigation will be carried out to note the general problem, which is the reason for churn, and ways to mitigate this problem. MTN is one of the network providers in Nigeria. The data is a record of customers from the period of January to March of a particular year, with a total of 974 customers. This Analysis was done with the Python language. The Following Insights were analyzed; These are:
 
-- 1. What State has the most customers?
-- 2. What is the status of the Customer in each location?
-- 3. What Month did they have more decline in customers?
-- 4. What is the relationship between the customer's rating and review?
-- 5. Find the relationship between customers' ratings and reviews based on location?
-- 6. What device is sold the most based on location?
-- 7. How is their customer review based on the state?
-- 8. What Gender patronizes MTN More?
-- 9. What is the relationship between the MTN device and the Customer's Churn Status?
-- 10. What state has the highest and lowest churn status?
-- 11. How many customers are Inactive and active with MTN?
-- 12. Which MTN subscription plan do customers patronize more, and which do they have a decline in customers based on location?
-- 13. What location has the highest revenue?
-- 14. What device is this Highest revenue is directed to based on location?
+- Count trend
+
+* How many customers does MTN have from January to March
+* What is the customers' distribution based on the month
+* What is the highest-selling device?
+* What is the customers' distribution based on Gender
+* What is the count of Customers based on Location?
+* What is the percentage of customers' Status
+
+- Period Trend
+- * 1. What month did MTN have a decline in most
+- * 2. Number of Customer registrations based on location
+- * 3. What location has the highest revenue
+
+-Rating Trend
+- * 1. How is the customer's Rating based on the state?
+- * 2. Does the rating have a significant effect on the reason for churn based on location?
+- * 3. What is the total reason for churn based on location?
 
  ### CONTENTS
  
