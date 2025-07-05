@@ -77,6 +77,8 @@ This is a data analysis of MTN services and sales tracking customer churn status
 
  ### FINDINGS
 
+ - The Total Revenue on sale from the period January to March is N199,348,200
+
  - The Month with the highest number of customers is February, with 450 registered customers. The others
     are  January with 271 customers and March with 253 customers.
    
@@ -93,7 +95,7 @@ This is a data analysis of MTN services and sales tracking customer churn status
 
  - The gender that patronizes MTN the most is the Female with a 50% patronage to the male with 49.2%.
 
- - 
+ - The State with the highest revenue so far is Plateau State with a Revenue of N
 
 
 
